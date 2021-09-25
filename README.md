@@ -3,7 +3,7 @@
 - 👀 I’m interested in gameing,web designing,graphics,photoshop,working on blue print .
 - 🌱 I’m currently learning HTML,C#,JAVA & Graphic designing .
 - 💞️ I’m looking to collaborate with creative mind .
-- 📫 How to reach me : phoenix.jk07@gmail.com .
+
 - 
 <!---
 Madvane/Madvane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
